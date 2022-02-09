@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErenDinc
 - 👀 I’m interested in Web development(Front-end & Back-end)
-- 🌱 I’m currently learning .NetCore & React
+- 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me erendncbusiness@gmail.com
 
 <!---
