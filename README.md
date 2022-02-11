@@ -2,11 +2,9 @@
 #### Front-end Developer
 My name is Eren, I am 22 years old, I am developing myself on Front-end and javascript software and I am sharing my projects with you here.
 
-Skills:  JS / HTML / CSS/ Node.js / TypeScript / Json
-
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: erendncbusiness@gmail.com 
-- ⚡ Fun fact: NFTs 
+- ⚡ Fun fact: NFTs and Crypto
 
 
 
